@@ -144,7 +144,7 @@ spec:
     spec:
       containers:
       - name: api
-        image: cat2000/go-demo-3:latest
+        image: cat2000tac2000/go-demo-3:latest
         env:
         - name: DB
           value: db
